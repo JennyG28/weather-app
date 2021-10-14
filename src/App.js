@@ -10,6 +10,7 @@ function App() {
         <p>
           <Search />
         </p>
+        <footer> This project was coded by Jenny Gomez</footer>
       </div>
     </div>
   );
